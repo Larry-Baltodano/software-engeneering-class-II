@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Larry-Baltodano/Larry-Baltodano/blob/main/Fondo%20github%20personal.png" alt="Banner" width="100%">
+  <img src="https://github.com/Larry-Baltodano/software-engeneering-class-II/blob/master/software%20image.png" alt="Banner" width="50%">
 </p>
 
 # 📌 Proyecto de Ingeniería de Software II
@@ -12,7 +12,7 @@ Este repositorio será utilizado en la materia **Ingeniería de Software II**, d
 - Aprender a colaborar en equipo mediante el uso de repositorios compartidos.
 - Desarrollar proyectos utilizando **HTML, CSS y JavaScript**.
 - Explorar buenas prácticas en el desarrollo de software.
-- Conocer sobre entornes de **Software Libres**
+- Conocer sobre entornos de **Software Libres**
 
 ## 🛠️ Tecnologías Utilizadas
 - **Sistema Operativo:** Ubuntu 22.04
